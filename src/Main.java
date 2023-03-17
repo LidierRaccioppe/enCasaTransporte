@@ -8,9 +8,7 @@ public class Main {
         Float costeTotal = null; //objetos pueden ser nulos
         Integer numeroDelTipo = null;//Integer objeto de int a groso modo  --- para embalaje
 
-
         int palanca = Integer.parseInt(JOptionPane.showInputDialog("Ingrese 1 o 2    para  CAMION  o  BICICLETA dependiendo de con cual quiere que se lo enviemos, respectivamente"));
-
 
         switch(palanca){
 
